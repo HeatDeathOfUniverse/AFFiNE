@@ -224,4 +224,3 @@ See [LICENSE] for details.
 [node-version-icon]: https://img.shields.io/badge/node->=18.0-success
 [typescript-version-icon]: https://img.shields.io/badge/TypeScript-4.9-3178c6
 [react-version-icon]: https://img.shields.io/badge/React-18-61dafb
-
