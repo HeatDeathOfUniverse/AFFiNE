@@ -225,4 +225,4 @@ See [LICENSE] for details.
 [typescript-version-icon]: https://img.shields.io/badge/TypeScript-4.9-3178c6
 [react-version-icon]: https://img.shields.io/badge/React-18-61dafb
 
-部署
+部
